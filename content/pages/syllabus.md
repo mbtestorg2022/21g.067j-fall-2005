@@ -35,13 +35,66 @@ The course will focus on Japan, but include performances related to other areas 
 Course Requirements and Schedule of Major Assignments
 -----------------------------------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class Participation | 15% |
-| Essay 1 (5 pages, Week 5) | 15% |
-| Essay 2 (5 pages, Week 9) | 20% |
-| Essay 3 - Due Final Class (7-8 Pages) | 25% |
-| In-class Presentations (Weeks 10-13) | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 1 (5 pages, Week 5)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 2 (5 pages, Week 9)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Essay 3 - Due Final Class (7-8 Pages)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Presentations (Weeks 10-13)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
