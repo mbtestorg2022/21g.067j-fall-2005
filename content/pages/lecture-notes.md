@@ -170,7 +170,7 @@ Student Presentations
 Discussion of Final Paper Topics
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/mit21g_067jf05_l12a_final)) (Courtesy of Yuichi Washida. Used with permission.)  
+([PDF 1]({{< baseurl >}}/resources/mit21g_067jf05_l12a_final)) (Courtesy of Yuichi Washida. Used with permission.)  
   
 ([PDF 2]({{< baseurl >}}/resources/mit21g_067jf05_l12washid))
 {{< tdclose >}}
